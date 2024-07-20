@@ -1,0 +1,17 @@
+npm install -g @aws-amplify/cli
+
+amplify configure
+
+npx create-react-app <name of your app>
+
+cd <name of your app>
+
+amplify init
+
+amplify add auth
+
+amplify push
+
+npm install aws-amplify @aws-amplify/ui-react
+
+npm start
