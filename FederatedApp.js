@@ -14,7 +14,7 @@ function App() {
           {({ signOut, user }) => (
             <div className="auth-container">
               <header className="App-header">
-                <h1>Welcome, {user.username}</h1>
+                <h1>Hello!!</h1>
               </header>
               <main>
                 <p>You are logged in!</p>
